@@ -1,0 +1,1455 @@
+{
+  "items": [
+    {
+      "name": "Adana",
+
+      "counties": [
+        "Seyhan",
+        "Yuregir",
+        "Cukurova",
+        "Ceyhan",
+        "Saricam",
+        "Kozan",
+        "Imamoglu",
+        "Karatas",
+        "Karaisali",
+        "Pozanti",
+        "Yumurtalik",
+        "Tufanbeyli",
+        "Feke",
+        "Aladag",
+        "Saimbeyli"
+      ]
+    },
+    {
+      "name": "Adiyaman",
+
+      "counties": [
+        "Merkez",
+        "Kahta",
+        "Besni",
+        "Golbasi",
+        "Gerger",
+        "Sincik",
+        "Celikhan",
+        "Tut",
+        "Samsat"
+      ]
+    },
+    {
+      "name": "Afyonkarahisar",
+
+      "counties": [
+        "Merkez",
+        "Sandikli",
+        "Dinar",
+        "Bolvadin",
+        "Sinanpasa",
+        "Emirdag",
+        "Suhut",
+        "Cay",
+        "Ihsaniye",
+        "Iscehisar",
+        "Sultandagi",
+        "Cobanlar",
+        "Dazkiri",
+        "Basmakci",
+        "Hocalar",
+        "Bayat",
+        "Evciler",
+        "Kiziloren"
+      ]
+    },
+    {
+      "name": "Agri",
+
+      "counties": [
+        "Merkez",
+        "Patnos",
+        "Dogubayazit",
+        "Diyadin",
+        "Eleskirt",
+        "Tutak",
+        "Taslicay",
+        "Hamur"
+      ]
+    },
+    {
+      "name": "Amasya",
+
+      "counties": [
+        "Merkez",
+        "Merzifon",
+        "Suluova",
+        "Tasova",
+        "Gumushacikoy",
+        "Goynucek",
+        "Hamamozu"
+      ]
+    },
+    {
+      "name": "Ankara",
+
+      "counties": [
+        "Cankaya",
+        "Kecioren",
+        "Yenimahalle",
+        "Mamak",
+        "Etimesgut",
+        "Sincan",
+        "Altindag",
+        "Pursaklar",
+        "Golbasi",
+        "Polatli",
+        "Cubuk",
+        "Kahramankazan",
+        "Beypazari",
+        "Elmadag",
+        "Sereflikochisar",
+        "Akyurt",
+        "Nallihan",
+        "Haymana",
+        "Kizilcahamam",
+        "Bala",
+        "Kalecik",
+        "Ayas",
+        "Gudul",
+        "Camlidere",
+        "Evren"
+      ]
+    },
+    {
+      "name": "Antalya",
+
+      "counties": [
+        "Kepez",
+        "Muratpasa",
+        "Alanya",
+        "Manavgat",
+        "Konyaalti",
+        "Serik",
+        "Aksu",
+        "Kumluca",
+        "Dosemealti",
+        "Kas",
+        "Korkuteli",
+        "Gazipasa",
+        "Finike",
+        "Kemer",
+        "Elmali",
+        "Demre",
+        "Akseki",
+        "Gundogmus",
+        "Ibradi"
+      ]
+    },
+    {
+      "name": "Artvin",
+
+      "counties": [
+        "Hopa",
+        "Merkez",
+        "Borcka",
+        "Yusufeli",
+        "Arhavi",
+        "Savsat",
+        "Ardanuc",
+        "Murgul",
+        "Kemalpasa"
+      ]
+    },
+    {
+      "name": "Aydin",
+
+      "counties": [
+        "Efeler",
+        "Nazilli",
+        "Soke",
+        "Kusadasi",
+        "Didim",
+        "Cine",
+        "Incirliova",
+        "Germencik",
+        "Bozdogan",
+        "Kosk",
+        "Kuyucak",
+        "Sultanhisar",
+        "Karacasu",
+        "Yenipazar",
+        "Buharkent",
+        "Karpuzlu"
+      ]
+    },
+    {
+      "name": "Balikesir",
+
+      "counties": [
+        "Karesi",
+        "Altieylul",
+        "Bandirma",
+        "Edremit",
+        "Gonen",
+        "Ayvalik",
+        "Burhaniye",
+        "Bigadic",
+        "Susurluk",
+        "Dursunbey",
+        "Sindirgi",
+        "Ivrindi",
+        "Erdek",
+        "Havran",
+        "Kepsut",
+        "Manyas",
+        "Savastepe",
+        "Balya",
+        "Gomec",
+        "Marmara"
+      ]
+    },
+    {
+      "name": "Bilecik",
+
+      "counties": [
+        "Merkez",
+        "Bozuyuk",
+        "Osmaneli",
+        "Sogut",
+        "Golpazari",
+        "Pazaryeri",
+        "Yenipazar",
+        "Inhisar"
+      ]
+    },
+    {
+      "name": "Bingol",
+
+      "counties": [
+        "Merkez",
+        "Genc",
+        "Solhan",
+        "Karliova",
+        "Adakli",
+        "Kigi",
+        "Yedisu",
+        "Yayladere"
+      ]
+    },
+    {
+      "name": "Bitlis",
+
+      "counties": [
+        "Tatvan",
+        "Merkez",
+        "Guroymak",
+        "Ahlat",
+        "Hizan",
+        "Mutki",
+        "Adilcevaz"
+      ]
+    },
+    {
+      "name": "Bolu",
+
+      "counties": [
+        "Merkez",
+        "Gerede",
+        "Mudurnu",
+        "Goynuk",
+        "Mengen",
+        "Yenicaga",
+        "Dortdivan",
+        "Seben",
+        "Kibriscik"
+      ]
+    },
+    {
+      "name": "Burdur",
+
+      "counties": [
+        "Merkez",
+        "Bucak",
+        "Golhisar",
+        "Yesilova",
+        "Cavdir",
+        "Tefenni",
+        "Aglasun",
+        "Karamanli",
+        "Altinyayla",
+        "Celtikci",
+        "Kemer"
+      ]
+    },
+    {
+      "name": "Bursa",
+
+      "counties": [
+        "Osmangazi",
+        "Yildirim",
+        "Nilufer",
+        "Gemlik",
+        "Mustafakemalpasa",
+        "Mudanya",
+        "Gursu",
+        "Karacabey",
+        "Orhangazi",
+        "Kestel",
+        "Yenisehir",
+        "Iznik",
+        "Orhaneli",
+        "Keles",
+        "Buyukorhan",
+        "Harmancik"
+      ]
+    },
+    {
+      "name": "Canakkale",
+
+      "counties": [
+        "Merkez",
+        "Biga",
+        "Can",
+        "Gelibolu",
+        "Yenice",
+        "Ayvacik",
+        "Ezine",
+        "Bayramic",
+        "Lapseki",
+        "Eceabat",
+        "Gokceada",
+        "Bozcaada"
+      ]
+    },
+    {
+      "name": "Cankiri",
+
+      "counties": [
+        "Merkez",
+        "Cerkes",
+        "Ilgaz",
+        "Orta",
+        "Sabanozu",
+        "Kursunlu",
+        "Yaprakli",
+        "Kizilirmak",
+        "Atkaracalar",
+        "Eldivan",
+        "Korgun",
+        "Bayramoren"
+      ]
+    },
+    {
+      "name": "Corum",
+
+      "counties": [
+        "Merkez",
+        "Sungurlu",
+        "Osmancik",
+        "Iskilip",
+        "Alaca",
+        "Bayat",
+        "Mecitozu",
+        "Kargi",
+        "Ortakoy",
+        "Ugurludag",
+        "Dodurga",
+        "Oguzlar",
+        "Lacin",
+        "Bogazkale"
+      ]
+    },
+    {
+      "name": "Denizli",
+
+      "counties": [
+        "Pamukkale",
+        "Merkezefendi",
+        "Civril",
+        "Acipayam",
+        "Tavas",
+        "Honaz",
+        "Saraykoy",
+        "Buldan",
+        "Kale",
+        "Cal",
+        "Cameli",
+        "Serinhisar",
+        "Bozkurt",
+        "Guney",
+        "Cardak",
+        "Bekilli",
+        "Beyagac",
+        "Babadag",
+        "Baklan"
+      ]
+    },
+    {
+      "name": "Diyarbakir",
+
+      "counties": [
+        "Baglar",
+        "Kayapinar",
+        "Yenisehir",
+        "Ergani",
+        "Sur",
+        "Bismil",
+        "Silvan",
+        "Cinar",
+        "Cermik",
+        "Dicle",
+        "Kulp",
+        "Hani",
+        "Lice",
+        "Egil",
+        "Hazro",
+        "Kocakoy",
+        "Cungus"
+      ]
+    },
+    {
+      "name": "Edirne",
+
+      "counties": [
+        "Merkez",
+        "Kesan",
+        "Uzunkopru",
+        "Ipsala",
+        "Havsa",
+        "Meric",
+        "Enez",
+        "Suloglu",
+        "Lalapasa"
+      ]
+    },
+    {
+      "name": "Elazig",
+
+      "counties": [
+        "Merkez",
+        "Kovancilar",
+        "Karakocan",
+        "Palu",
+        "Aricak",
+        "Baskil",
+        "Maden",
+        "Sivrice",
+        "Alacakaya",
+        "Keban",
+        "Agin"
+      ]
+    },
+    {
+      "name": "Erzincan",
+
+      "counties": [
+        "Merkez",
+        "Tercan",
+        "Uzumlu",
+        "Cayirli",
+        "Ilic",
+        "Kemah",
+        "Kemaliye",
+        "Otlukbeli"
+      ]
+    },
+    {
+      "name": "Erzurum",
+
+      "counties": [
+        "Yakutiye",
+        "Palandoken",
+        "Aziziye",
+        "Horasan",
+        "Oltu",
+        "Pasinler",
+        "Karayazi",
+        "Hinis",
+        "Tekman",
+        "Karacoban",
+        "Askale",
+        "Senkaya",
+        "Cat",
+        "Koprukoy",
+        "Ispir",
+        "Tortum",
+        "Narman",
+        "Uzundere",
+        "Olur",
+        "Pazaryolu"
+      ]
+    },
+    {
+      "name": "Eskisehir",
+
+      "counties": [
+        "Odunpazari",
+        "Tepebasi",
+        "Sivrihisar",
+        "Cifteler",
+        "Seyitgazi",
+        "Alpu",
+        "Mihaliccik",
+        "Mahmudiye",
+        "Beylikova",
+        "Inonu",
+        "Saricakaya",
+        "Gunyuzu",
+        "Mihalgazi",
+        "Han"
+      ]
+    },
+    {
+      "name": "Gaziantep",
+
+      "counties": [
+        "Sahinbey",
+        "Sehitkamil",
+        "Nizip",
+        "Islahiye",
+        "Nurdagi",
+        "Araban",
+        "Oguzeli",
+        "Yavuzeli",
+        "Karkamis"
+      ]
+    },
+    {
+      "name": "Giresun",
+
+      "counties": [
+        "Merkez",
+        "Bulancak",
+        "Espiye",
+        "Gorele",
+        "Tirebolu",
+        "Dereli",
+        "Sebinkarahisar",
+        "Kesap",
+        "Yaglidere",
+        "Alucra",
+        "Piraziz",
+        "Eynesil",
+        "Guce",
+        "Canakci",
+        "Dogankent",
+        "Camoluk"
+      ]
+    },
+    {
+      "name": "Gumushane",
+
+      "counties": [
+        "Merkez",
+        "Kelkit",
+        "Siran",
+        "Kurtun",
+        "Torul",
+        "Kose"
+      ]
+    },
+    {
+      "name": "Hakkari",
+
+      "counties": [
+        "Yuksekova",
+        "Merkez",
+        "Cukurca",
+        "Semdinli",
+        "Cukurca"
+      ]
+    },
+    {
+      "name": "Hatay",
+
+      "counties": [
+        "Antakya",
+        "Iskenderun",
+        "Defne",
+        "Dortyol",
+        "Samandag",
+        "Kirikhan",
+        "Reyhanli",
+        "Arsuz",
+        "Altinozu",
+        "Hassa",
+        "Erzin",
+        "Payas",
+        "Belen",
+        "Yayladagi",
+        "Kumlu"
+      ]
+    },
+    {
+      "name": "Isparta",
+
+      "counties": [
+        "Merkez",
+        "Yalvac",
+        "Egirdir",
+        "Sarkikaraagac",
+        "Gelendost",
+        "Keciborlu",
+        "Senirkent",
+        "Sutculer",
+        "Gonen",
+        "Uluborlu",
+        "Atabey",
+        "Aksu",
+        "Yenisarbademli"
+      ]
+    },
+    {
+      "name": "Mersin",
+
+      "counties": [
+        "Tarsus",
+        "Toroslar",
+        "Akdeniz",
+        "Yenisehir",
+        "Mezitli",
+        "Erdemli",
+        "Silifke",
+        "Anamur",
+        "Mut",
+        "Bozyazi",
+        "Gulnar",
+        "Aydincik",
+        "Camliyayla"
+      ]
+    },
+    {
+      "name": "Istanbul",
+
+      "counties": [
+        "Esenyurt",
+        "Kucukcekmece",
+        "Bagcilar",
+        "Umraniye",
+        "Pendik",
+        "Bahcelievler",
+        "Uskudar",
+        "Sultangazi",
+        "Gaziosmanpasa",
+        "Maltepe",
+        "Kartal",
+        "Esenler",
+        "Kadikoy",
+        "Kagithane",
+        "Avcilar",
+        "Atasehir",
+        "Fatih",
+        "Eyup",
+        "Sancaktepe",
+        "Basaksehir",
+        "Sariyer",
+        "Sultanbeyli",
+        "Gungoren",
+        "Beylikduzu",
+        "Zeytinburnu",
+        "Bayrampasa",
+        "Sisli",
+        "Beykoz",
+        "Arnavutkoy",
+        "Tuzla",
+        "Cekmekoy",
+        "Beyoglu",
+        "Buyukcekmece",
+        "Bakirkoy",
+        "Besiktas",
+        "Silivri",
+        "Catalca",
+        "Sile",
+        "Adalar"
+      ]
+    },
+    {
+      "name": "Izmir",
+
+      "counties": [
+        "Buca",
+        "Karabaglar",
+        "Bornova",
+        "Konak",
+        "Karsiyaka",
+        "Bayrakli",
+        "Cigli",
+        "Torbali",
+        "Menemen",
+        "Gaziemir",
+        "Odemis",
+        "Kemalpasa",
+        "Bergama",
+        "Aliaga",
+        "Menderes",
+        "Tire",
+        "Balcova",
+        "Narlidere",
+        "Urla",
+        "Kiraz",
+        "Dikili",
+        "Cesme",
+        "Bayindir",
+        "Seferihisar",
+        "Selcuk",
+        "Guzelbahce",
+        "Foca",
+        "Kinik",
+        "Beydag",
+        "Karaburun"
+      ]
+    },
+    {
+      "name": "Kars",
+
+      "counties": [
+        "Merkez",
+        "Kagizman",
+        "Sarikamis",
+        "Selim",
+        "Digor",
+        "Arpacay",
+        "Akyaka",
+        "Susuz"
+      ]
+    },
+    {
+      "name": "Kastamonu",
+
+      "counties": [
+        "Merkez",
+        "Tosya",
+        "Taskopru",
+        "Cide",
+        "Inebolu",
+        "Arac",
+        "Devrekani",
+        "Bozkurt",
+        "Daday",
+        "Azdavay",
+        "Catalzeytin",
+        "Kure",
+        "Doganyurt",
+        "Ihsangazi",
+        "Pinarbasi",
+        "Senpazar",
+        "Abana",
+        "Seydiler",
+        "Hanonu",
+        "Agli"
+      ]
+    },
+    {
+      "name": "Kayseri",
+
+      "counties": [
+        "Melikgazi",
+        "Kocasinan",
+        "Talas",
+        "Develi",
+        "Yahyali",
+        "Bunyan",
+        "Incesu",
+        "Pinarbasi",
+        "Tomarza",
+        "Yesilhisar",
+        "Sarioglan",
+        "Hacilar",
+        "Sariz",
+        "Akkisla",
+        "Felahiye",
+        "Ozvatan"
+      ]
+    },
+    {
+      "name": "Kirklareli",
+
+      "counties": [
+        "Luleburgaz",
+        "Merkez",
+        "Babaeski",
+        "Vize",
+        "Pinarhisar",
+        "Demirkoy",
+        "Pehlivankoy",
+        "Kofcaz"
+      ]
+    },
+    {
+      "name": "Kirsehir",
+
+      "counties": [
+        "Merkez",
+        "Kaman",
+        "Mucur",
+        "Cicekdagi",
+        "Akpinar",
+        "Boztepe",
+        "Akcakent"
+      ]
+    },
+    {
+      "name": "Kocaeli",
+
+      "counties": [
+        "Gebze",
+        "Izmit",
+        "Darica",
+        "Korfez",
+        "Golcuk",
+        "Derince",
+        "Cayirova",
+        "Kartepe",
+        "Basiskele",
+        "Karamursel",
+        "Kandira",
+        "Dilovasi"
+      ]
+    },
+    {
+      "name": "Konya",
+
+      "counties": [
+        "Selcuklu",
+        "Meram",
+        "Karatay",
+        "Eregli",
+        "Aksehir",
+        "Beysehir",
+        "Cumra",
+        "Seydisehir",
+        "Ilgin",
+        "Cihanbeyli",
+        "Kulu",
+        "Karapinar",
+        "Kadinhani",
+        "Sarayonu",
+        "Bozkir",
+        "Yunak",
+        "Doganhisar",
+        "Huyuk",
+        "Altinekin",
+        "Hadim",
+        "Celtik",
+        "Emirgazi",
+        "Tuzlukcu",
+        "Derebucak",
+        "Akoren",
+        "Halkapinar",
+        "Yalihuyuk"
+      ]
+    },
+    {
+      "name": "Kutahya",
+
+      "counties": [
+        "Merkez",
+        "Tavsanli",
+        "Simav",
+        "Gediz",
+        "Emet",
+        "Altintas",
+        "Domanic",
+        "Hisarcik",
+        "Aslanapa",
+        "Cavdarhisar",
+        "Saphane",
+        "Pazarlar",
+        "Dumlupinar"
+      ]
+    },
+    {
+      "name": "Malatya",
+
+      "counties": [
+        "Battalgazi",
+        "Yesilyurt",
+        "Dogansehir",
+        "Akcadag",
+        "Darende",
+        "Hekimhan",
+        "Puturge",
+        "Yazihan",
+        "Arapgir",
+        "Arguvan",
+        "Kuluncak",
+        "Kale",
+        "Doganyol"
+      ]
+    },
+    {
+      "name": "Manisa",
+
+      "counties": [
+        "Yunusemre",
+        "Sehzadeler",
+        "Akhisar",
+        "Salihli",
+        "Turgutlu",
+        "Soma",
+        "Alasehir",
+        "Saruhanli",
+        "Kula",
+        "Kirkagac",
+        "Demirci",
+        "Sarigol",
+        "Gordes",
+        "Selendi",
+        "Ahmetli",
+        "Golmarmara",
+        "Koprubasi"
+      ]
+    },
+    {
+      "name": "Kahramanmaras",
+
+      "counties": [
+        "Onikisubat",
+        "Dulkadiroglu",
+        "Elbistan",
+        "Afsin",
+        "Turkoglu",
+        "Pazarcik",
+        "Goksun",
+        "Andirin",
+        "Caglayancerit",
+        "Nurhak",
+        "Ekinozu"
+      ]
+    },
+    {
+      "name": "Mardin",
+
+      "counties": [
+        "Kiziltepe",
+        "Artuklu",
+        "Midyat",
+        "Nusaybin",
+        "Derik",
+        "Mazidagi",
+        "Dargecit",
+        "Savur",
+        "Yesilli",
+        "Omerli"
+      ]
+    },
+    {
+      "name": "Mugla",
+
+      "counties": [
+        "Bodrum",
+        "Fethiye",
+        "Milas",
+        "Mentese",
+        "Marmaris",
+        "Seydikemer",
+        "Ortaca",
+        "Yatagan",
+        "Dalaman",
+        "Koycegiz",
+        "Ula",
+        "Datca",
+        "Kavaklidere"
+      ]
+    },
+    {
+      "name": "Mus",
+
+      "counties": [
+        "Merkez",
+        "Bulanik",
+        "Malazgirt",
+        "Varto",
+        "Haskoy",
+        "Korkut"
+      ]
+    },
+    {
+      "name": "Nevsehir",
+
+      "counties": [
+        "Merkez",
+        "Urgup",
+        "Avanos",
+        "Gulsehir",
+        "Derinkuyu",
+        "Acigol",
+        "Kozakli",
+        "Hacibektas"
+      ]
+    },
+    {
+      "name": "Nigde",
+
+      "counties": [
+        "Merkez",
+        "Bor",
+        "Ciftlik",
+        "Ulukisla",
+        "Altunhisar",
+        "Camardi"
+      ]
+    },
+    {
+      "name": "Ordu",
+
+      "counties": [
+        "Altinordu",
+        "Unye",
+        "Fatsa",
+        "Golkoy",
+        "Persembe",
+        "Kumru",
+        "Aybasti",
+        "Korgan",
+        "Akkus",
+        "Ulubey",
+        "Mesudiye",
+        "Ikizce",
+        "Gurgentepe",
+        "Catalpinar",
+        "Caybasi",
+        "Kabatas",
+        "Camas",
+        "Gulyali"
+      ]
+    },
+    {
+      "name": "Rize",
+
+      "counties": [
+        "Merkez",
+        "Cayeli",
+        "Ardesen",
+        "Pazar",
+        "Findikli",
+        "Guneysu",
+        "Kalkandere",
+        "Iyidere",
+        "Derepazari",
+        "Camlihemsin",
+        "Ikizdere",
+        "Hemsin"
+      ]
+    },
+    {
+      "name": "Sakarya",
+
+      "counties": [
+        "Adapazari",
+        "Serdivan",
+        "Akyazi",
+        "Erenler",
+        "Hendek",
+        "Karasu",
+        "Geyve",
+        "Arifiye",
+        "Sapanca",
+        "Pamukova",
+        "Ferizli",
+        "Kaynarca",
+        "Kocaali",
+        "Karapurcek",
+        "Tarakli"
+      ]
+    },
+    {
+      "name": "Samsun",
+
+      "counties": [
+        "Ilkadim",
+        "Atakum",
+        "Bafra",
+        "Carsamba",
+        "Canik",
+        "Vezirkopru",
+        "Terme",
+        "Tekkekoy",
+        "Havza",
+        "Alacam",
+        "19 Mayis",
+        "Ayvacik",
+        "Kavak",
+        "Salipazari",
+        "Asarcik",
+        "Ladik",
+        "Yakakent"
+      ]
+    },
+    {
+      "name": "Siirt",
+
+      "counties": [
+        "Merkez",
+        "Kurtalan",
+        "Pervari",
+        "Baykan",
+        "Sirvan",
+        "Eruh",
+        "Tillo"
+      ]
+    },
+    {
+      "name": "Sinop",
+
+      "counties": [
+        "Merkez",
+        "Boyabat",
+        "Gerze",
+        "Ayancik",
+        "Duragan",
+        "Turkeli",
+        "Erfelek",
+        "Dikmen",
+        "Sarayduzu"
+      ]
+    },
+    {
+      "name": "Sivas",
+
+      "counties": [
+        "Merkez",
+        "Sarkisla",
+        "Yildizeli",
+        "Susehri",
+        "Gemerek",
+        "Zara",
+        "Kangal",
+        "Gurun",
+        "Divrigi",
+        "Koyulhisar",
+        "Altinyayla",
+        "Hafik",
+        "Ulas",
+        "Imranli",
+        "Akincilar",
+        "Gulova",
+        "Dogansar"
+      ]
+    },
+    {
+      "name": "Tekirdag",
+
+      "counties": [
+        "Corlu",
+        "Suleymanpasa",
+        "Cerkezkoy",
+        "Kapakli",
+        "Ergene",
+        "Malkara",
+        "Saray",
+        "Hayrabolu",
+        "Sarkoy",
+        "Muratli",
+        "Marmaraereglisi"
+      ]
+    },
+    {
+      "name": "Tokat",
+
+      "counties": [
+        "Merkez",
+        "Erbaa",
+        "Turhal",
+        "Niksar",
+        "Zile",
+        "Resadiye",
+        "Almus",
+        "Pazar",
+        "Basciftlik",
+        "Yesilyurt",
+        "Artova",
+        "Sulusaray"
+      ]
+    },
+    {
+      "name": "Trabzon",
+
+      "counties": [
+        "Ortahisar",
+        "Akcaabat",
+        "Arakli",
+        "Of",
+        "Yomra",
+        "Arsin",
+        "Vakfikebir",
+        "Surmene",
+        "Macka",
+        "Besikduzu",
+        "Carsibasi",
+        "Tonya",
+        "Duzkoy",
+        "Caykara",
+        "Salpazari",
+        "Hayrat",
+        "Koprubasi",
+        "Dernekpazari"
+      ]
+    },
+    {
+      "name": "Tunceli",
+
+      "counties": [
+        "Merkez",
+        "Pertek",
+        "Mazgirt",
+        "Cemisgezek",
+        "Hozat",
+        "Ovacik",
+        "Pulumur",
+        "Nazimiye"
+      ]
+    },
+    {
+      "name": "Sanliurfa",
+
+      "counties": [
+        "Eyyubiye",
+        "Haliliye",
+        "Siverek",
+        "Viransehir",
+        "Karakopru",
+        "Akcakale",
+        "Suruc",
+        "Birecik",
+        "Ceylanpinar",
+        "Harran",
+        "Bozova",
+        "Hilvan",
+        "Halfeti"
+      ]
+    },
+    {
+      "name": "Usak",
+
+      "counties": [
+        "Merkez",
+        "Banaz",
+        "Esme",
+        "Sivasli",
+        "Ulubey",
+        "Karahalli"
+      ]
+    },
+    {
+      "name": "Van",
+
+      "counties": [
+        "Ipekyolu",
+        "Ercis",
+        "Tusba",
+        "Edremit",
+        "Ozalp",
+        "Caldiran",
+        "Baskale",
+        "Muradiye",
+        "Gurpinar",
+        "Gevas",
+        "Saray",
+        "Catak",
+        "Bahcesaray"
+      ]
+    },
+    {
+      "name": "Yozgat",
+
+      "counties": [
+        "Merkez",
+        "Sorgun",
+        "Akdagmadeni",
+        "Yerkoy",
+        "Sarikaya",
+        "Bogazliyan",
+        "Cekerek",
+        "Sefaatli",
+        "Saraykent",
+        "Cayiralan",
+        "Kadisehri",
+        "Aydincik",
+        "Yenifakilli",
+        "Candir"
+      ]
+    },
+    {
+      "name": "Zonguldak",
+
+      "counties": [
+        "Eregli",
+        "Merkez",
+        "Caycuma",
+        "Devrek",
+        "Kozlu",
+        "Alapli",
+        "Kilimli",
+        "Gokcebey"
+      ]
+    },
+    {
+      "name": "Aksaray",
+
+      "counties": [
+        "Merkez",
+        "Ortakoy",
+        "Eskil",
+        "Gulagac",
+        "Guzelyurt",
+        "Agacoren",
+        "Sariyahsi",
+        "Sultanhani"
+      ]
+    },
+    {
+      "name": "Bayburt",
+
+      "counties": [
+        "Merkez",
+        "Demirozu",
+        "Aydintepe"
+      ]
+    },
+    {
+      "name": "Karaman",
+
+      "counties": [
+        "Merkez",
+        "Ermenek",
+        "Sarievliler",
+        "Ayranci",
+        "Kazimkarabekir",
+        "Basyayla"
+      ]
+    },
+    {
+      "name": "Kirikkale",
+
+      "counties": [
+        "Merkez",
+        "Yahsihan",
+        "Keskin",
+        "Delice",
+        "Bahsili",
+        "Sulakyurt",
+        "Baliseyh",
+        "Karakecili",
+        "Celebi"
+      ]
+    },
+    {
+      "name": "Batman",
+
+      "counties": [
+        "Merkez",
+        "Kozluk",
+        "Besiri",
+        "Sason",
+        "Gercus",
+        "Hasankeyf"
+      ]
+    },
+    {
+      "name": "Sirnak",
+
+      "counties": [
+        "Cizre",
+        "Silopi",
+        "Merkez",
+        "Idil",
+        "Uludere",
+        "Beytussebap",
+        "Guclukonak"
+      ]
+    },
+    {
+      "name": "Bartin",
+
+      "counties": [
+        "Merkez",
+        "Ulus",
+        "Amasra",
+        "Kurucasile"
+      ]
+    },
+    {
+      "name": "Ardahan",
+
+      "counties": [
+        "Merkez",
+        "Gole",
+        "Cildir",
+        "Hanak",
+        "Posof",
+        "Damal"
+      ]
+    },
+    {
+      "name": "Igdir",
+
+      "counties": [
+        "Merkez",
+        "Tuzluca",
+        "Aralik",
+        "Karakoyunlu"
+      ]
+    },
+    {
+      "name": "Yalova",
+
+      "counties": [
+        "Merkez",
+        "Ciftlikkoy",
+        "Cinarcik",
+        "Altinova",
+        "Armutlu",
+        "Termal"
+      ]
+    },
+    {
+      "name": "Karabuk",
+
+      "counties": [
+        "Merkez",
+        "Safranbolu",
+        "Yenice",
+        "Eskipazar",
+        "Eflani",
+        "Ovacik"
+      ]
+    },
+    {
+      "name": "Kilis",
+
+      "counties": [
+        "Merkez",
+        "Musabeyli",
+        "Elbeyli",
+        "Polateli"
+      ]
+    },
+    {
+      "name": "Osmaniye",
+
+      "counties": [
+        "Merkez",
+        "Kadirli",
+        "Duzici",
+        "Bahce",
+        "Toprakkale",
+        "Sumbas",
+        "Hasanbeyli"
+      ]
+    },
+    {
+      "name": "Duzce",
+
+      "counties": [
+        "Merkez",
+        "Akcakoca",
+        "Kaynasli",
+        "Golyaka",
+        "Cilimli",
+        "Yigilca",
+        "Gumusova",
+        "Cumayeri"
+      ]
+    }
+  ]
+}
+
